@@ -1,5 +1,4 @@
-suraj
-<? include 'header.php'?>
+<?php include('header.php'); ?>
 	<!-- banner -->
 	<div class="banner">
 		<div class="container">
@@ -263,4 +262,4 @@ suraj
 		</div>
 	</div>
 	<!-- //news --> 
-<? include 'footer.php'?>
+<?php include('footer.php'); ?>
